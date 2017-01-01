@@ -1,0 +1,27 @@
+{
+  "name": "newh5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/browser-sync start --server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "dot": "^1.1.1",
+    "fastclick": "^1.0.6",
+    "iscroll": "^5.2.0",
+    "layzr.js": "^2.2.1",
+    "weui": "^1.1.0",
+    "weui.js": "^1.0.0",
+    "zepto": "^1.2.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "vconsole": "^2.5.2"
+  }
+}
